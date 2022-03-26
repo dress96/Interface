@@ -1,0 +1,22 @@
+#body-menu {
+    position:absolute;
+    right:-15px;
+    top:30%;
+    width:45vh;
+}
+.menu-items .menu-item {
+    display:flex;
+    background-color:#00000080;
+    border: 2px solid #FFF;
+    margin-bottom:15px;
+    padding-left:40px;
+    height: 50px;
+    transform: skew(-20deg);
+    color:#FFF;
+    font-weight: 800;
+    font-size:18px;
+    align-items: center;
+}
+.menu-items .menu-item.selected {
+    transform: scale(1.2) translateX(3px) skew(-20deg);
+}
