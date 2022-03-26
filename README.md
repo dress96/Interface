@@ -7,7 +7,7 @@ This script is union to two basic ESX framework scripts the ESX Menu Default and
 - It have a unique basic design however you want to change this easily.
 - The javascript code of each menu is divided and uses OOP programming
 
-Currently this script is deprecated since ESX is currently having to be used less.
+Currently this script is discontinued and there are no intentions to continue with its optimization and modernization.
 
 Credits.
 
