@@ -12,4 +12,4 @@ Currently this script is discontinued and there are no intentions to continue wi
 Credits.
 
 - Original ESX Default Menu - Jérémie N'gadi
-- Original EXX Menu Dialog - Jérémie N'gadi
+- Original ESX Menu Dialog - Jérémie N'gadi
