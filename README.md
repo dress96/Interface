@@ -11,5 +11,5 @@ Currently this script is deprecated since ESX is currently having to be used les
 
 Credits.
 
-Original ESX Default Menu - Jérémie N'gadi
-Original EXX Menu Dialog - Jérémie N'gadi
+- Original ESX Default Menu - Jérémie N'gadi
+- Original EXX Menu Dialog - Jérémie N'gadi
